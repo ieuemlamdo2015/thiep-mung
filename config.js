@@ -1,5 +1,5 @@
 const nameGirl = 'Em bé 🐷💝';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.facebook.com/phuongnhu.nguyen.522';
 const eventName = 'Hello';
 const titleCard = 'Tặng người ấy';
 const contentCard = 'Chúc honey của anh tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
